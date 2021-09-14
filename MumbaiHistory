@@ -16,3 +16,48 @@
    16  git init
    17  history >  MumbaiHistory
 I have added this line after commit
+    1  clear
+    2  yum update -y
+    3  yum install git -y
+    4  where git
+    5  git --version 
+    6  git config --global user.name "karan1"
+    7  git config --global user.email "karan1@email.com"
+    8  git config --list 
+    9  pwd
+   10  ls
+   11  ls -a
+   12  clear
+   13  cd /etc/yum.repos.d/
+   14  wget https://cli.github.com/packages/rpm/gh-cli.repo
+   15  clear
+   16  ls -l
+   17  cd ..
+   18  yum update
+   19  yum install gh
+   20  gh auth login
+   21  gh auth login
+   22  clear
+   23  clear
+   24  ls
+   25  cd /home/ec2-user/
+   26  ls
+   27  mkdir singaporegit
+   28  ls
+   29  cd singaporegit/
+   30  git init
+   31  clear
+   32  ls -a
+   33  git remote add origin https://github.com/karanszz/CentralGit.git
+   34  git log
+   35  git status
+   36  git pull origin master
+   37  git status
+   38  git pull origin master
+   39  git status
+   40  git log
+   41  git show 571a66570dbf83a5aab8a38e09f2cfaea6975848
+   42  clear
+   43  ls
+   44  history >> MumbaiHistory 
+Added Commands from Singapore server
