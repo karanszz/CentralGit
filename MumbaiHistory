@@ -1,0 +1,17 @@
+    1  clear
+    2  yum update -y
+    3  yum install git -y
+    4  which git
+    5  git --version
+    6  git config --global user.name "karan"
+    7  git config --global user.email "karan.user95@gmail.com"
+    8  git config --list 
+    9  ls -l
+   10  ls -a
+   11  pwd
+   12  clear
+   13  mkdir mumbaigit
+   14  ls
+   15  cd mumbaigit/
+   16  git init
+   17  history >  MumbaiHistory
